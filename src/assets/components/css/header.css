@@ -1,0 +1,17 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    height: 100px;
+    background-color: #E1EDE6;
+    padding-left: 165px;
+    padding-right: 165px;
+}
+
+nav {
+    gap: 60px;
+    display: flex;
+    align-items: flex-end;
+}
+
