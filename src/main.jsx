@@ -9,11 +9,12 @@ import './main.css'
 import './reset.css'
 
 // -- Компоненты
-import '../src/assets/components/header/Header'
+import Main from './assets/components/main/Main'
 import Header from '../src/assets/components/header/Header'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <Header />
+    <Main />
   </StrictMode>,
 )

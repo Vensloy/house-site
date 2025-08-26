@@ -7,6 +7,10 @@ header {
     background-color: #E1EDE6;
     padding-left: 165px;
     padding-right: 165px;
+
+    font-family: 'Raleway';
+    font-weight: 500;
+    font-size: 20px;
 }
 
 nav {

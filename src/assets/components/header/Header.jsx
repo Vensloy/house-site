@@ -2,13 +2,15 @@
 import '../css/header.css'
 
 // -- Картинки
-import logo from '../img/logo.svg'
-import basket from '../img/basket.svg'
+import logo from '/img/header/logo.svg'
+import basket from '/img/header/basket.svg'
 
 export default function Header() {
     return (
         <header>
-            <img src={logo} alt="" />
+            <a href="#">
+                <img src={logo} alt="" />
+            </a>
 
             <nav>
                 <a href="#">Репродукции</a>
