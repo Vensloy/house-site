@@ -7,7 +7,7 @@ main {
 }
 
 .bird {
-    width: 540px;
+    width: 700px;
     transform: scaleX(-1);
 }
 

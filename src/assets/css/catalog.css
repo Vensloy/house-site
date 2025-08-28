@@ -1,0 +1,30 @@
+.catalog-header {
+    display: flex;
+    justify-content: space-between;
+
+    padding-left: 350px;
+    padding-right: 300px;
+}
+
+.catalog-buttons {
+    gap: 20px;
+    display: flex;
+
+    width: fit-content;
+}
+
+.header-name {
+    font-size: 40px;
+}
+
+.cb {
+    background-color: #D4E8D9;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+
+.france-button {
+    background-color: #376B44;
+    
+    color: #F4F6F5;
+}
